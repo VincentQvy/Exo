@@ -1,1 +1,1 @@
-# Exo 1 du cour 1
+# Exo python
