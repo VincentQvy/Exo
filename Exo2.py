@@ -1,5 +1,5 @@
 import math
-from easygui import *
+from easygui import msgbox,integerbox
 
 #cour 2 exo 1
 
